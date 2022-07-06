@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋🏽, I'm Mohamed</h1>
+<h3 align="center">Software Developer || Senior computer Science Student</h3>
 
-<!--
-**mohamed3omar/mohamed3omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+-  I’m currently learning **Full-stack Web Development || Computer Science**
+
+-  I mainly code in **Javascript**
+ 
+-  Pronouns: **he/him**  
+
+-  How to reach me **mohamed3mar2019@gmail.com**
+
+
+
+
+
+<p align="center">
+  &nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamed3omar&show_icons=true&locale=en&theme=radical" alt="mohamed3omar" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed3omar&theme=radical" alt="mohamed3omar" />
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed3omar&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamed3omar" /></p>
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+</p>
