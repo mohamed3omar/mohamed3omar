@@ -8,7 +8,7 @@
 
 -  I’m currently learning **Full-stack Web Development || Computer Science**
 
--  I mainly code in **Javascript**
+-  I mainly code in **c++**
  
 -  Pronouns: **he/him**  
 
