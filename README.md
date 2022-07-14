@@ -8,9 +8,7 @@
 
 -  I’m currently learning **Web Development || Computer Science**
 
--  I mainly code in **c++**
- 
--  Pronouns: **he/him**  
+-  I mainly code in **c++**  
 
 -  How to reach me **mohamed3mar2019@gmail.com**
 
