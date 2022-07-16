@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer || Senior computer Science Student</h3>
 
 
-#### 👨🏻‍💻  About Me
+###  About Me
 
 
 
