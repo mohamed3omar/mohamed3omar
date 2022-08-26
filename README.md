@@ -4,7 +4,6 @@
 
 ### About Me
 
-
 -  I’m currently learning **Web Development || Computer Science**
 
 -  I mainly code in **c++**  
