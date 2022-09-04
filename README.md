@@ -2,7 +2,6 @@
 <h3 align="center">Software Developer</h3>
 
 
-
 -  How to reach me **mohamed3mar2019@gmail.com**
 
 <p align="center">
