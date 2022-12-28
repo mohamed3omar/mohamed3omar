@@ -1,5 +1,4 @@
-<h1 align="center"> I'm Mohamed </h1>
-<h3 align="center">Software Developer</h3>
+
 
 
 -  How to reach me **mohamed3mar2019@gmail.com**
